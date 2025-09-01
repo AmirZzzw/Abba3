@@ -4,5 +4,11 @@
         "key": "Abba3",
         "expirydate": "999999999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3b615b6b981b56d3",
+        "key": "Abba3",
+        "expirydate": "1-9-9999",
+        "Allowoffline": false
     }
 ]
