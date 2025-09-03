@@ -22,5 +22,11 @@
         "key": "R4D1N",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e0c2ccdd6b20b57c",
+        "key": "OnyxShop",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
