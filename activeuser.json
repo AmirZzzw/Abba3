@@ -28,11 +28,5 @@
         "key": "OnyxShop",
         "expirydate": "30-12-9999",
         "Allowoffline": false
-    },
-    {
-        "device_id": "9defc65cd5888cb2",
-        "key": "MMD",
-        "expirydate": "5-9-2025",
-        "Allowoffline": false
     }
 ]
