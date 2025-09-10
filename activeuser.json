@@ -30,12 +30,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "487cd9c24933e7b3",
-        "key": "test2",
-        "expirydate": "5-9-2025",
-        "Allowoffline": false
-    },
-    {
         "device_id": "1fc0c5e43d58020f",
         "key": "Erfan",
         "expirydate": "30-12-9999",
