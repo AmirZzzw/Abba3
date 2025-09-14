@@ -46,5 +46,11 @@
         "key": "c999z",
         "expirydate": "17-9-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ad6288233c515fd0",
+        "key": "omid",
+        "expirydate": "14-10-2025",
+        "Allowoffline": false
     }
 ]
