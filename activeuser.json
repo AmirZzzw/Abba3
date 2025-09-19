@@ -30,12 +30,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "e4dc418e4eb66587",
-        "key": "NYX",
-        "expirydate": "30-12-9999",
-        "Allowoffline": false
-    },
-    {
         "device_id": "df156b22ad62f69e",
         "key": "xian",
         "expirydate": "17-9-2025",
@@ -56,12 +50,6 @@
     {
         "device_id": "0f9afa5db208eff8",
         "key": "mmd",
-        "expirydate": "30-12-9999",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "3b615b6b981b56d3",
-        "key": "NYX",
         "expirydate": "30-12-9999",
         "Allowoffline": false
     }
