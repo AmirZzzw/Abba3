@@ -58,5 +58,11 @@
         "key": "NYXJR",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3b615b6b981b56d3",
+        "key": "KOS",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
