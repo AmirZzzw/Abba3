@@ -28,11 +28,5 @@
         "key": "mmd",
         "expirydate": "30-12-9999",
         "Allowoffline": false
-    },
-    {
-        "device_id": "e4dc418e4eb66587",
-        "key": "NYXJR",
-        "expirydate": "30-12-2025",
-        "Allowoffline": false
     }
 ]
