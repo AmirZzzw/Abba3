@@ -22,5 +22,11 @@
         "key": "omid",
         "expirydate": "14-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3b615b6b981b56d3",
+        "key": "NYXJR",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
