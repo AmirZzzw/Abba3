@@ -22,11 +22,5 @@
         "key": "omid",
         "expirydate": "14-10-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "0f9afa5db208eff8",
-        "key": "mmd",
-        "expirydate": "30-12-9999",
-        "Allowoffline": false
     }
 ]
