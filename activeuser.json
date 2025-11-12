@@ -52,11 +52,5 @@
         "key": "MMDFF",
         "expirydate": "30-12-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "5f442625269d14d0",
-        "key": "Onyx Panel",
-        "expirydate": "13-11-2025",
-        "Allowoffline": false
     }
 ]
