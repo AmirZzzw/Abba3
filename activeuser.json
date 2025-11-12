@@ -10,5 +10,11 @@
         "key": "MMDFF",
         "expirydate": "30-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f45011524034cfd4",
+        "key": "Test",
+        "expirydate": "13-11-2025",
+        "Allowoffline": false
     }
 ]
