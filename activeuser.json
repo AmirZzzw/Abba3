@@ -16,5 +16,11 @@
         "key": "Test2",
         "expirydate": "13-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f45011524034cfd4",
+        "key": "Test",
+        "expirydate": "14-11-2025",
+        "Allowoffline": false
     }
 ]
