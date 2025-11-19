@@ -34,5 +34,11 @@
         "key": "NODBADE",
         "expirydate": "18-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6e0c9305c1751ad7",
+        "key": "shoshol tala",
+        "expirydate": "20-11-2025",
+        "Allowoffline": false
     }
 ]
