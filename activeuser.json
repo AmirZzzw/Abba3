@@ -52,5 +52,11 @@
         "key": "bna126mm",
         "expirydate": "25-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ae49c322013876d2",
+        "key": "ae49c322013876d2",
+        "expirydate": "25-11-2025",
+        "Allowoffline": false
     }
 ]
