@@ -34,5 +34,11 @@
         "key": "Cv138z",
         "expirydate": "30-12-2060",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c0ff6d5f07c7ff26",
+        "key": "bna12",
+        "expirydate": "25-11-2025",
+        "Allowoffline": false
     }
 ]
