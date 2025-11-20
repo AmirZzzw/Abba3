@@ -136,23 +136,5 @@
         "key": "alimg",
         "expirydate": "21-11-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "21-12-2025",
-        "key": "Amir",
-        "expirydate": "e2ba3332dc61c0d2",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "e2ba3332dc61c0d2",
-        "key": "Amir",
-        "expirydate": "22-11-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "e2ba3332dc61c0d2",
-        "key": "Amir",
-        "expirydate": "30-11-2028",
-        "Allowoffline": false
     }
 ]
