@@ -28,5 +28,11 @@
         "key": "zx12",
         "expirydate": "30-12-2060",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ffcbe504e3430d59",
+        "key": "Cv138z",
+        "expirydate": "30-12-2060",
+        "Allowoffline": false
     }
 ]
