@@ -4,11 +4,5 @@
         "key": "shoshol tala",
         "expirydate": "20-11-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "3de3ee656e2151dd",
-        "key": "Test",
-        "expirydate": "20-11-2025",
-        "Allowoffline": false
     }
 ]
