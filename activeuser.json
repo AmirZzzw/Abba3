@@ -82,5 +82,11 @@
         "key": "Alizx",
         "expirydate": "25-11-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "73964442db3de755",
+        "key": "Loveyou ",
+        "expirydate": "25-11-2025",
+        "Allowoffline": false
     }
 ]
