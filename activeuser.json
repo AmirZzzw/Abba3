@@ -22,5 +22,11 @@
         "key": "RadPanel",
         "expirydate": "30-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e2ba3332dc61c0d2",
+        "key": "zx12",
+        "expirydate": "30-12-2060",
+        "Allowoffline": false
     }
 ]
