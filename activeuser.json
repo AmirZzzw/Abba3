@@ -100,5 +100,11 @@
         "key": "Amirplk",
         "expirydate": "25-11-2060",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fde14b25ac75404a",
+        "key": "Amirplk",
+        "expirydate": "25-11-2060",
+        "Allowoffline": false
     }
 ]
