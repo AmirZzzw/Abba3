@@ -4,5 +4,11 @@
         "key": "9ddb036cff4856db",
         "expirydate": "30-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8dcb34612f01fa31",
+        "key": "RadPanel",
+        "expirydate": "30-12-2025",
+        "Allowoffline": false
     }
 ]
