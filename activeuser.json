@@ -106,5 +106,11 @@
         "key": "Amirplk",
         "expirydate": "25-11-2060",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8835a442042bf507",
+        "key": "panelop",
+        "expirydate": "22-11-2025",
+        "Allowoffline": false
     }
 ]
