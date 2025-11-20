@@ -40,5 +40,11 @@
         "key": "bna12",
         "expirydate": "25-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d52be76e8f35cf89",
+        "key": "bna126",
+        "expirydate": "25-11-2025",
+        "Allowoffline": false
     }
 ]
