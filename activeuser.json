@@ -88,11 +88,5 @@
         "key": "Amir",
         "expirydate": "30-12-9999",
         "Allowoffline": false
-    },
-    {
-        "device_id": "8835a442042bf507",
-        "key": "panelop",
-        "expirydate": "22-11-2025",
-        "Allowoffline": false
     }
 ]
