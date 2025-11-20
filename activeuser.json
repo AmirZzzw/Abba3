@@ -88,5 +88,11 @@
         "key": "Loveyou ",
         "expirydate": "25-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e2ba3332dc61c0d2",
+        "key": "Amir",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
