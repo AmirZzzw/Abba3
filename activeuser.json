@@ -106,5 +106,11 @@
         "key": "djsoks",
         "expirydate": "25-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4e117731631eb71c",
+        "key": "djsoksls",
+        "expirydate": "25-11-2025",
+        "Allowoffline": false
     }
 ]
