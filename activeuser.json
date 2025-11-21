@@ -160,5 +160,11 @@
         "key": "shskjzbxkzls",
         "expirydate": "25-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a31e1dcbb86dc8a0",
+        "key": "Koniiiii",
+        "expirydate": "25-12-2026",
+        "Allowoffline": false
     }
 ]
