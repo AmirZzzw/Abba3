@@ -184,5 +184,11 @@
         "key": "aliking",
         "expirydate": "25-11-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6e0c9305c1751ad7",
+        "key": "Lorking",
+        "expirydate": "12-12-2026",
+        "Allowoffline": false
     }
 ]
