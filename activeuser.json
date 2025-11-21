@@ -202,5 +202,11 @@
         "key": "akksksos",
         "expirydate": "25-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5723cfa2c857430d",
+        "key": "Ajskkksoll",
+        "expirydate": "25-12-2025",
+        "Allowoffline": false
     }
 ]
