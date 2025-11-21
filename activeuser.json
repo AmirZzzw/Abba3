@@ -172,5 +172,11 @@
         "key": "jKKskakl",
         "expirydate": "25-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a121d1478c4b0270",
+        "key": "Fkslknsj",
+        "expirydate": "25-12-2025",
+        "Allowoffline": false
     }
 ]
