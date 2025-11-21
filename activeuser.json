@@ -136,5 +136,11 @@
         "key": "Kingxc",
         "expirydate": "25-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d6e903a1e978c0e2",
+        "key": "Radinkoni",
+        "expirydate": "25-12-2025",
+        "Allowoffline": false
     }
 ]
