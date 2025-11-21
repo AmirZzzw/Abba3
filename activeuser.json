@@ -94,5 +94,11 @@
         "key": "Nafas",
         "expirydate": "25-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f766b4c31eebd28c",
+        "key": "mnbvcxz12",
+        "expirydate": "20-12-2025",
+        "Allowoffline": false
     }
 ]
