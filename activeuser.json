@@ -100,5 +100,11 @@
         "key": "mnbvcxz12",
         "expirydate": "20-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "faa1ae66e10a8c4f",
+        "key": "djsoks",
+        "expirydate": "25-11-2025",
+        "Allowoffline": false
     }
 ]
